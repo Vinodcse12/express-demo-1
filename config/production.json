@@ -1,0 +1,6 @@
+{
+  "name": "Express Demo App - Production",
+  "server" : {
+    "host": "production-server"
+  }
+}
